@@ -1,0 +1,15 @@
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.exe
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.deps.json
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.runtimeconfig.json
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.dll
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.pdb
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfo.cs
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.dll
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\refint\HelloCS.dll
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.pdb
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.genruntimeconfig.cache
+D:\WorkSpace\C#\StudyWithBook\Chapter01\HelloCS\obj\Debug\net6.0\ref\HelloCS.dll

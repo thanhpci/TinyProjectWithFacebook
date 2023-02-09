@@ -1,0 +1,10 @@
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.ProjectInstaller.resources
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.GenerateResource.cache
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe.config
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.exe
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\bin\Debug\MyFirstWindowsService.pdb
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.exe
+D:\WorkSpace\C#\MyFirstWindowsService\MyFirstWindowsService\obj\Debug\MyFirstWindowsService.pdb

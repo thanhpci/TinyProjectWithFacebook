@@ -1,0 +1,10 @@
+/* id là "#", class là "." */
+#first-heading {
+    color: red;
+}
+
+.second-heading {
+    color: green;
+    font-size: 20px;
+    
+}

@@ -1,0 +1,15 @@
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\WorkSpace\C#\FR-PhamCongThanh\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

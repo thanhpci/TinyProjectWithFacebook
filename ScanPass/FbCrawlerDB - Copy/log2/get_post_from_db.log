@@ -1,0 +1,857 @@
+[2023-01-17 10:53:05,516]:[INFO]:
+****************************************************************************************************
+[2023-01-17 10:53:11,426]:[INFO]:Got 182 posts
+[2023-01-17 10:53:11,426]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 10:53:11,427]:[INFO]:Switch account ...
+[2023-01-17 10:53:11,427]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 10, 53, 5, 517272)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 10, 53, 5, 517272))}
+[2023-01-17 10:53:11,428]:[INFO]:Remain 2 alive acc
+[2023-01-17 10:53:11,428]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 10:53:11,428]:[INFO]:
+=======
+[2023-01-17 10:53:12,431]:[INFO]:Getting chrome driver
+[2023-01-17 10:53:49,716]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 10:54:02,630]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 10, 53, 5, 517272)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 10, 53, 5, 517272))}
+[2023-01-17 10:54:08,277]:[INFO]:Dumping to db
+[2023-01-17 10:54:08,417]:[INFO]:Remaining: 181
+[2023-01-17 10:54:11,534]:[INFO]:Dumping to db
+[2023-01-17 10:54:11,669]:[INFO]:Remaining: 180
+[2023-01-17 10:54:15,435]:[INFO]:Dumping to db
+[2023-01-17 10:54:15,554]:[INFO]:Remaining: 179
+[2023-01-17 10:54:18,927]:[INFO]:Dumping to db
+[2023-01-17 10:54:19,134]:[INFO]:Remaining: 178
+[2023-01-17 10:54:25,598]:[INFO]:Dumping to db
+[2023-01-17 10:54:25,760]:[INFO]:Remaining: 177
+[2023-01-17 10:54:30,308]:[INFO]:Dumping to db
+[2023-01-17 10:54:30,735]:[INFO]:Remaining: 176
+[2023-01-17 10:54:33,720]:[INFO]:Dumping to db
+[2023-01-17 10:54:34,157]:[INFO]:Remaining: 175
+[2023-01-17 10:54:37,730]:[INFO]:Dumping to db
+[2023-01-17 10:54:38,598]:[INFO]:Remaining: 174
+[2023-01-17 10:54:42,852]:[INFO]:Dumping to db
+[2023-01-17 10:54:42,976]:[INFO]:Remaining: 173
+[2023-01-17 10:54:47,973]:[INFO]:Dumping to db
+[2023-01-17 10:54:48,100]:[INFO]:Remaining: 172
+[2023-01-17 10:54:53,693]:[INFO]:Dumping to db
+[2023-01-17 10:54:53,820]:[INFO]:Remaining: 171
+[2023-01-17 10:54:56,892]:[INFO]:Dumping to db
+[2023-01-17 10:54:57,011]:[INFO]:Remaining: 170
+[2023-01-17 10:55:00,147]:[INFO]:Dumping to db
+[2023-01-17 10:55:00,287]:[INFO]:Remaining: 169
+[2023-01-17 10:55:05,486]:[INFO]:Dumping to db
+[2023-01-17 10:55:05,731]:[INFO]:Remaining: 168
+[2023-01-17 10:55:11,236]:[INFO]:Dumping to db
+[2023-01-17 10:55:11,359]:[INFO]:Remaining: 167
+[2023-01-17 10:55:16,863]:[INFO]:Dumping to db
+[2023-01-17 10:55:17,000]:[INFO]:Remaining: 166
+[2023-01-17 10:55:21,318]:[INFO]:Dumping to db
+[2023-01-17 10:55:21,446]:[INFO]:Remaining: 165
+[2023-01-17 10:55:24,403]:[INFO]:Dumping to db
+[2023-01-17 10:55:24,521]:[INFO]:Remaining: 164
+[2023-01-17 10:55:29,326]:[INFO]:Dumping to db
+[2023-01-17 10:55:29,463]:[INFO]:Remaining: 163
+[2023-01-17 10:55:32,431]:[INFO]:Dumping to db
+[2023-01-17 10:55:32,575]:[INFO]:Remaining: 162
+[2023-01-17 10:55:37,480]:[INFO]:Dumping to db
+[2023-01-17 10:55:37,605]:[INFO]:Remaining: 161
+[2023-01-17 10:55:46,697]:[ERROR]:Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 975, in get_comments
+    'from': {'id': driver.find_element_by_class_name('_67lm._77kc').get_attribute('data-sigil').split('ring')[-1],
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+
+[2023-01-17 10:55:48,886]:[ERROR]:Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 844, in crawl_bds_post_from_db
+    db.session.rollback()
+  File "<string>", line 2, in rollback
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\orm\scoping.py", line 24, in _proxied
+    return self.registry()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\util\_collections.py", line 1006, in __call__
+    key = self.scopefunc()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\flask_sqlalchemy\session.py", line 81, in _app_ctx_id
+    return id(app_ctx._get_current_object())  # type: ignore[attr-defined]
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\werkzeug\local.py", line 513, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+[2023-01-17 11:02:19,918]:[INFO]:
+****************************************************************************************************
+[2023-01-17 11:02:25,799]:[INFO]:Got 182 posts
+[2023-01-17 11:02:25,799]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 11:02:25,799]:[INFO]:Switch account ...
+[2023-01-17 11:02:25,799]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 2, 19, 918728)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 2, 19, 918728))}
+[2023-01-17 11:02:25,800]:[INFO]:Remain 2 alive acc
+[2023-01-17 11:02:25,800]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 11:02:25,800]:[INFO]:
+=======
+[2023-01-17 11:02:26,807]:[INFO]:Getting chrome driver
+[2023-01-17 11:03:06,021]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 11:03:17,144]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 2, 19, 918728)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 2, 19, 918728))}
+[2023-01-17 11:03:21,357]:[INFO]:Dumping to db
+[2023-01-17 11:03:21,453]:[INFO]:Remaining: 181
+[2023-01-17 11:03:27,762]:[INFO]:Dumping to db
+[2023-01-17 11:03:27,854]:[INFO]:Remaining: 180
+[2023-01-17 11:03:32,063]:[INFO]:Dumping to db
+[2023-01-17 11:03:32,150]:[INFO]:Remaining: 179
+[2023-01-17 11:03:35,461]:[INFO]:Dumping to db
+[2023-01-17 11:03:35,548]:[INFO]:Remaining: 178
+[2023-01-17 11:03:39,472]:[INFO]:Dumping to db
+[2023-01-17 11:03:39,560]:[INFO]:Remaining: 177
+[2023-01-17 11:03:43,492]:[INFO]:Dumping to db
+[2023-01-17 11:03:43,580]:[INFO]:Remaining: 176
+[2023-01-17 11:03:49,247]:[INFO]:Dumping to db
+[2023-01-17 11:03:49,336]:[INFO]:Remaining: 175
+[2023-01-17 11:03:54,194]:[INFO]:Dumping to db
+[2023-01-17 11:03:54,288]:[INFO]:Remaining: 174
+[2023-01-17 11:03:57,466]:[INFO]:Dumping to db
+[2023-01-17 11:03:57,573]:[INFO]:Remaining: 173
+[2023-01-17 11:04:01,605]:[INFO]:Dumping to db
+[2023-01-17 11:04:01,721]:[INFO]:Remaining: 172
+[2023-01-17 11:04:11,154]:[ERROR]:Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 975, in get_comments
+    'from': {'id': driver.find_element_by_class_name('_67lm._77kc').get_attribute('data-sigil').split('ring')[-1],
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+
+[2023-01-17 11:04:13,334]:[ERROR]:Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 844, in crawl_bds_post_from_db
+    db.session.rollback()
+  File "<string>", line 2, in rollback
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\orm\scoping.py", line 24, in _proxied
+    return self.registry()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\util\_collections.py", line 1006, in __call__
+    key = self.scopefunc()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\flask_sqlalchemy\session.py", line 81, in _app_ctx_id
+    return id(app_ctx._get_current_object())  # type: ignore[attr-defined]
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\werkzeug\local.py", line 513, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+[2023-01-17 11:06:50,050]:[INFO]:
+****************************************************************************************************
+[2023-01-17 11:06:55,814]:[INFO]:Got 182 posts
+[2023-01-17 11:06:55,814]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 11:06:55,815]:[INFO]:Switch account ...
+[2023-01-17 11:06:55,815]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 6, 50, 50690)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 6, 50, 50690))}
+[2023-01-17 11:06:55,816]:[INFO]:Remain 2 alive acc
+[2023-01-17 11:06:55,816]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 11:06:55,816]:[INFO]:
+=======
+[2023-01-17 11:06:56,821]:[INFO]:Getting chrome driver
+[2023-01-17 11:07:36,901]:[ERROR]:Error login
+[2023-01-17 11:07:39,008]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('cookie_died', datetime.datetime(2023, 1, 17, 11, 7, 39, 8704)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 6, 50, 50690))}
+[2023-01-17 11:07:39,008]:[INFO]:Remain 1 alive acc
+[2023-01-17 11:07:39,008]:[INFO]:Cook_q: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 11:07:39,008]:[INFO]:
+=======
+[2023-01-17 11:07:40,017]:[INFO]:Getting chrome driver
+[2023-01-17 11:07:51,253]:[INFO]:
+****************************************************************************************************
+[2023-01-17 11:07:56,995]:[INFO]:Got 182 posts
+[2023-01-17 11:07:56,995]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 11:07:56,995]:[INFO]:Switch account ...
+[2023-01-17 11:07:56,995]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 7, 51, 254789)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 7, 51, 254789))}
+[2023-01-17 11:07:56,995]:[INFO]:Remain 2 alive acc
+[2023-01-17 11:07:56,996]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 11:07:56,996]:[INFO]:
+=======
+[2023-01-17 11:07:58,010]:[INFO]:Getting chrome driver
+[2023-01-17 11:08:34,839]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 11:08:46,663]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 7, 51, 254789)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 7, 51, 254789))}
+[2023-01-17 11:08:52,257]:[INFO]:Dumping to db
+[2023-01-17 11:08:52,397]:[INFO]:Remaining: 181
+[2023-01-17 11:08:57,517]:[INFO]:Dumping to db
+[2023-01-17 11:08:57,638]:[INFO]:Remaining: 180
+[2023-01-17 11:09:00,538]:[INFO]:Dumping to db
+[2023-01-17 11:09:00,667]:[INFO]:Remaining: 179
+[2023-01-17 11:09:04,659]:[INFO]:Dumping to db
+[2023-01-17 11:09:04,783]:[INFO]:Remaining: 178
+[2023-01-17 11:09:09,697]:[INFO]:Dumping to db
+[2023-01-17 11:09:09,818]:[INFO]:Remaining: 177
+[2023-01-17 11:09:12,837]:[INFO]:Dumping to db
+[2023-01-17 11:09:12,969]:[INFO]:Remaining: 176
+[2023-01-17 11:09:17,880]:[INFO]:Dumping to db
+[2023-01-17 11:09:17,994]:[INFO]:Remaining: 175
+[2023-01-17 11:09:23,206]:[INFO]:Dumping to db
+[2023-01-17 11:09:23,338]:[INFO]:Remaining: 174
+[2023-01-17 11:09:27,235]:[INFO]:Dumping to db
+[2023-01-17 11:09:27,397]:[INFO]:Remaining: 173
+[2023-01-17 11:09:31,902]:[INFO]:Dumping to db
+[2023-01-17 11:09:32,017]:[INFO]:Remaining: 172
+[2023-01-17 11:09:38,869]:[ERROR]:Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 975, in get_comments
+    'from': {'id': driver.find_element_by_class_name('_67lm._77kc').get_attribute('data-sigil').split('ring')[-1],
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+
+[2023-01-17 11:09:41,081]:[ERROR]:Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 844, in crawl_bds_post_from_db
+    db.session.rollback()
+  File "<string>", line 2, in rollback
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\orm\scoping.py", line 24, in _proxied
+    return self.registry()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\util\_collections.py", line 1006, in __call__
+    key = self.scopefunc()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\flask_sqlalchemy\session.py", line 81, in _app_ctx_id
+    return id(app_ctx._get_current_object())  # type: ignore[attr-defined]
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\werkzeug\local.py", line 513, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+[2023-01-17 11:13:33,211]:[INFO]:
+****************************************************************************************************
+[2023-01-17 11:14:34,564]:[INFO]:Got 172 posts
+[2023-01-17 11:14:35,717]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 11:15:24,580]:[INFO]:Switch account ...
+[2023-01-17 11:15:25,686]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 13, 36, 239430)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 13, 37, 856466))}
+[2023-01-17 11:15:25,686]:[INFO]:Remain 2 alive acc
+[2023-01-17 11:15:25,686]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 11:15:25,687]:[INFO]:
+=======
+[2023-01-17 11:15:26,695]:[INFO]:Getting chrome driver
+[2023-01-17 11:16:06,384]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 11:16:23,796]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 13, 36, 239430)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 13, 37, 856466))}
+[2023-01-17 11:17:07,841]:[INFO]:Dumping to db
+[2023-01-17 11:17:22,146]:[INFO]:Remaining: 171
+[2023-01-17 11:17:46,558]:[INFO]:Dumping to db
+[2023-01-17 11:17:54,155]:[INFO]:Remaining: 170
+[2023-01-17 11:18:16,429]:[INFO]:Dumping to db
+[2023-01-17 11:18:26,582]:[INFO]:Remaining: 169
+[2023-01-17 11:19:00,625]:[INFO]:Dumping to db
+[2023-01-17 11:19:05,195]:[INFO]:Remaining: 168
+[2023-01-17 11:19:19,011]:[INFO]:Dumping to db
+[2023-01-17 11:19:24,648]:[INFO]:Remaining: 167
+[2023-01-17 11:19:32,581]:[INFO]:Dumping to db
+[2023-01-17 11:19:35,110]:[INFO]:Remaining: 166
+[2023-01-17 11:19:48,492]:[INFO]:Dumping to db
+[2023-01-17 11:19:54,939]:[INFO]:Remaining: 165
+[2023-01-17 11:20:21,170]:[INFO]:Dumping to db
+[2023-01-17 11:20:28,298]:[INFO]:Remaining: 164
+[2023-01-17 11:20:49,223]:[INFO]:Dumping to db
+[2023-01-17 11:20:51,683]:[INFO]:Remaining: 163
+[2023-01-17 11:22:02,293]:[INFO]:Dumping to db
+[2023-01-17 11:22:18,979]:[INFO]:Remaining: 162
+[2023-01-17 11:23:23,320]:[INFO]:Dumping to db
+[2023-01-17 11:23:30,543]:[INFO]:Remaining: 161
+[2023-01-17 11:23:58,741]:[ERROR]:Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 972, in get_comments
+    'from': {'id': driver.find_element_by_class_name('_67lm._77kc').get_attribute('data-sigil').split('ring')[-1],
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+
+[2023-01-17 11:25:15,805]:[INFO]:
+****************************************************************************************************
+[2023-01-17 11:25:21,565]:[INFO]:Got 161 posts
+[2023-01-17 11:25:21,565]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 11:25:21,567]:[INFO]:Switch account ...
+[2023-01-17 11:25:21,567]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 25, 15, 805696)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 25, 15, 805696))}
+[2023-01-17 11:25:21,567]:[INFO]:Remain 2 alive acc
+[2023-01-17 11:25:21,567]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 11:25:21,567]:[INFO]:
+=======
+[2023-01-17 11:25:22,580]:[INFO]:Getting chrome driver
+[2023-01-17 11:26:01,054]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 11:26:11,820]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 11, 25, 15, 805696)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 11, 25, 15, 805696))}
+[2023-01-17 11:26:17,185]:[INFO]:Dumping to db
+[2023-01-17 11:26:17,330]:[INFO]:Remaining: 160
+[2023-01-17 11:26:23,216]:[INFO]:Dumping to db
+[2023-01-17 11:26:23,340]:[INFO]:Remaining: 159
+[2023-01-17 11:26:27,342]:[INFO]:Dumping to db
+[2023-01-17 11:26:27,461]:[INFO]:Remaining: 158
+[2023-01-17 11:26:30,702]:[INFO]:Dumping to db
+[2023-01-17 11:26:30,822]:[INFO]:Remaining: 157
+[2023-01-17 11:26:33,828]:[INFO]:Dumping to db
+[2023-01-17 11:26:33,970]:[INFO]:Remaining: 156
+[2023-01-17 11:26:38,102]:[INFO]:Dumping to db
+[2023-01-17 11:26:38,220]:[INFO]:Remaining: 155
+[2023-01-17 11:26:42,071]:[INFO]:Dumping to db
+[2023-01-17 11:26:42,204]:[INFO]:Remaining: 154
+[2023-01-17 11:26:47,094]:[INFO]:Dumping to db
+[2023-01-17 11:26:47,229]:[INFO]:Remaining: 153
+[2023-01-17 11:26:50,422]:[INFO]:Dumping to db
+[2023-01-17 11:26:50,544]:[INFO]:Remaining: 152
+[2023-01-17 11:26:53,621]:[INFO]:Dumping to db
+[2023-01-17 11:26:53,740]:[INFO]:Remaining: 151
+[2023-01-17 11:26:56,703]:[INFO]:Dumping to db
+[2023-01-17 11:26:56,820]:[INFO]:Remaining: 150
+[2023-01-17 11:27:01,781]:[INFO]:Dumping to db
+[2023-01-17 11:27:01,904]:[INFO]:Remaining: 149
+[2023-01-17 11:27:09,995]:[ERROR]:Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 973, in get_comments
+    'from': {'id': driver.find_element_by_class_name('_67lm._77kc').get_attribute('data-sigil').split('ring')[-1],
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+
+[2023-01-17 11:27:12,180]:[ERROR]:Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 842, in crawl_bds_post_from_db
+    db.session.rollback()
+  File "<string>", line 2, in rollback
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\orm\scoping.py", line 24, in _proxied
+    return self.registry()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\util\_collections.py", line 1006, in __call__
+    key = self.scopefunc()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\flask_sqlalchemy\session.py", line 81, in _app_ctx_id
+    return id(app_ctx._get_current_object())  # type: ignore[attr-defined]
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\werkzeug\local.py", line 513, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+[2023-01-17 14:04:00,859]:[INFO]:
+****************************************************************************************************
+[2023-01-17 14:04:06,628]:[INFO]:Got 149 posts
+[2023-01-17 14:04:06,628]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 14:04:06,631]:[INFO]:Switch account ...
+[2023-01-17 14:04:06,632]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 14, 4, 0, 860052)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 14, 4, 0, 860052))}
+[2023-01-17 14:04:06,632]:[INFO]:Remain 2 alive acc
+[2023-01-17 14:04:06,632]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 14:04:06,633]:[INFO]:
+=======
+[2023-01-17 14:04:07,643]:[INFO]:Getting chrome driver
+[2023-01-17 14:04:48,283]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 14:05:01,480]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 14, 4, 0, 860052)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 14, 4, 0, 860052))}
+[2023-01-17 14:05:10,442]:[INFO]:Dumping to db
+[2023-01-17 14:05:10,592]:[INFO]:Remaining: 148
+[2023-01-17 14:05:18,135]:[INFO]:Dumping to db
+[2023-01-17 14:05:18,254]:[INFO]:Remaining: 147
+[2023-01-17 14:05:23,320]:[INFO]:Dumping to db
+[2023-01-17 14:05:23,449]:[INFO]:Remaining: 146
+[2023-01-17 14:05:29,365]:[INFO]:Dumping to db
+[2023-01-17 14:05:29,683]:[INFO]:Remaining: 145
+[2023-01-17 14:05:34,528]:[INFO]:Dumping to db
+[2023-01-17 14:05:34,644]:[INFO]:Remaining: 144
+[2023-01-17 14:05:38,384]:[INFO]:Dumping to db
+[2023-01-17 14:05:38,516]:[INFO]:Remaining: 143
+[2023-01-17 14:06:56,068]:[INFO]:Dumping to db
+[2023-01-17 14:06:56,212]:[INFO]:Remaining: 142
+[2023-01-17 14:07:10,876]:[INFO]:Dumping to db
+[2023-01-17 14:07:10,995]:[INFO]:Remaining: 141
+[2023-01-17 14:07:15,974]:[INFO]:Dumping to db
+[2023-01-17 14:07:16,094]:[INFO]:Remaining: 140
+[2023-01-17 14:07:24,216]:[INFO]:Dumping to db
+[2023-01-17 14:07:24,340]:[INFO]:Remaining: 139
+[2023-01-17 14:07:37,492]:[INFO]:Dumping to db
+[2023-01-17 14:07:37,610]:[INFO]:Remaining: 138
+[2023-01-17 14:07:54,132]:[INFO]:Dumping to db
+[2023-01-17 14:07:54,499]:[INFO]:Remaining: 137
+[2023-01-17 14:08:05,085]:[INFO]:Dumping to db
+[2023-01-17 14:08:05,202]:[INFO]:Remaining: 136
+[2023-01-17 14:08:23,570]:[ERROR]:Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 974, in get_comments
+    'from': {'id': driver.find_element_by_class_name('_67lm._77kc').get_attribute('data-sigil').split('ring')[-1],
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+
+[2023-01-17 14:10:56,073]:[INFO]:
+****************************************************************************************************
+[2023-01-17 14:11:01,862]:[INFO]:Got 136 posts
+[2023-01-17 14:11:01,863]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 14:11:01,866]:[INFO]:Switch account ...
+[2023-01-17 14:11:01,867]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 14, 10, 56, 75636)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 14, 10, 56, 75636))}
+[2023-01-17 14:11:01,867]:[INFO]:Remain 2 alive acc
+[2023-01-17 14:11:01,867]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 14:11:01,867]:[INFO]:
+=======
+[2023-01-17 14:11:02,873]:[INFO]:Getting chrome driver
+[2023-01-17 14:11:40,028]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 14:11:50,951]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 14, 10, 56, 75636)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 14, 10, 56, 75636))}
+[2023-01-17 14:12:01,934]:[INFO]:Dumping to db
+[2023-01-17 14:12:02,095]:[INFO]:Remaining: 135
+[2023-01-17 14:12:08,031]:[INFO]:Dumping to db
+[2023-01-17 14:12:08,308]:[INFO]:Remaining: 134
+[2023-01-17 14:12:17,160]:[INFO]:Dumping to db
+[2023-01-17 14:12:17,288]:[INFO]:Remaining: 133
+[2023-01-17 14:12:25,055]:[INFO]:Dumping to db
+[2023-01-17 14:12:25,230]:[INFO]:Remaining: 132
+[2023-01-17 14:12:28,774]:[INFO]:Dumping to db
+[2023-01-17 14:12:29,056]:[INFO]:Remaining: 131
+[2023-01-17 14:13:40,344]:[INFO]:Dumping to db
+[2023-01-17 14:13:40,479]:[INFO]:Remaining: 130
+[2023-01-17 14:13:46,985]:[INFO]:Dumping to db
+[2023-01-17 14:13:47,117]:[INFO]:Remaining: 129
+[2023-01-17 14:13:50,898]:[INFO]:Dumping to db
+[2023-01-17 14:13:51,028]:[INFO]:Remaining: 128
+[2023-01-17 14:13:59,905]:[INFO]:Dumping to db
+[2023-01-17 14:14:00,044]:[INFO]:Remaining: 127
+[2023-01-17 14:14:07,586]:[INFO]:Dumping to db
+[2023-01-17 14:14:07,713]:[INFO]:Remaining: 126
+[2023-01-17 14:14:23,723]:[INFO]:Dumping to db
+[2023-01-17 14:14:23,859]:[INFO]:Remaining: 125
+[2023-01-17 14:15:53,303]:[INFO]:Dumping to db
+[2023-01-17 14:15:53,434]:[INFO]:Remaining: 124
+[2023-01-17 14:16:01,314]:[INFO]:Dumping to db
+[2023-01-17 14:16:01,441]:[INFO]:Remaining: 123
+[2023-01-17 14:16:07,262]:[INFO]:Dumping to db
+[2023-01-17 14:16:07,400]:[INFO]:Remaining: 122
+[2023-01-17 14:16:41,692]:[ERROR]:Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 974, in get_comments
+    'from': {'id': driver.find_element_by_class_name('_67lm._77kc').get_attribute('data-sigil').split('ring')[-1],
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"._67lm._77kc"}
+  (Session info: chrome=108.0.5359.126)
+
+[2023-01-17 14:17:21,895]:[ERROR]:Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+Traceback (most recent call last):
+  File "D:\Desktop\FbCrawlerDB\main.py", line 843, in crawl_bds_post_from_db
+    db.session.rollback()
+  File "<string>", line 2, in rollback
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\orm\scoping.py", line 24, in _proxied
+    return self.registry()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\sqlalchemy\util\_collections.py", line 1006, in __call__
+    key = self.scopefunc()
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\flask_sqlalchemy\session.py", line 81, in _app_ctx_id
+    return id(app_ctx._get_current_object())  # type: ignore[attr-defined]
+  File "C:\Users\CongThanh\miniconda3\envs\python38\lib\site-packages\werkzeug\local.py", line 513, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+[2023-01-17 14:19:24,787]:[INFO]:
+****************************************************************************************************
+[2023-01-17 14:19:30,521]:[INFO]:Got 121 posts
+[2023-01-17 14:19:30,522]:[INFO]:Last time posts_data: 2022-03-02 0
+[2023-01-17 14:19:30,523]:[INFO]:Switch account ...
+[2023-01-17 14:19:30,523]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 14, 19, 24, 787901)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 14, 19, 24, 787901))}
+[2023-01-17 14:19:30,523]:[INFO]:Remain 2 alive acc
+[2023-01-17 14:19:30,524]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 14:19:30,524]:[INFO]:
+=======
+[2023-01-17 14:19:31,539]:[INFO]:Getting chrome driver
+[2023-01-17 14:20:11,309]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 14:20:24,785]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 14, 19, 24, 787901)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 14, 19, 24, 787901))}
+[2023-01-17 14:20:30,616]:[INFO]:Dumping to db
+[2023-01-17 14:20:30,751]:[INFO]:Remaining: 120
+[2023-01-17 14:20:36,580]:[INFO]:Dumping to db
+[2023-01-17 14:20:36,710]:[INFO]:Remaining: 119
+[2023-01-17 14:20:41,730]:[INFO]:Dumping to db
+[2023-01-17 14:20:41,857]:[INFO]:Remaining: 118
+[2023-01-17 14:20:45,393]:[INFO]:Dumping to db
+[2023-01-17 14:20:45,522]:[INFO]:Remaining: 117
+[2023-01-17 14:20:50,612]:[INFO]:Dumping to db
+[2023-01-17 14:20:50,738]:[INFO]:Remaining: 116
+[2023-01-17 14:20:55,773]:[INFO]:Dumping to db
+[2023-01-17 14:20:55,925]:[INFO]:Remaining: 115
+[2023-01-17 14:20:58,847]:[INFO]:Dumping to db
+[2023-01-17 14:20:58,966]:[INFO]:Remaining: 114
+[2023-01-17 14:21:02,160]:[INFO]:Dumping to db
+[2023-01-17 14:21:02,279]:[INFO]:Remaining: 113
+[2023-01-17 14:21:05,188]:[INFO]:Dumping to db
+[2023-01-17 14:21:05,317]:[INFO]:Remaining: 112
+[2023-01-17 14:21:10,182]:[INFO]:Dumping to db
+[2023-01-17 14:21:10,317]:[INFO]:Remaining: 111
+[2023-01-17 14:21:14,245]:[INFO]:Dumping to db
+[2023-01-17 14:21:14,368]:[INFO]:Remaining: 110
+[2023-01-17 14:21:18,271]:[INFO]:Dumping to db
+[2023-01-17 14:21:18,393]:[INFO]:Remaining: 109
+[2023-01-17 14:21:23,326]:[INFO]:Dumping to db
+[2023-01-17 14:21:23,447]:[INFO]:Remaining: 108
+[2023-01-17 14:21:26,599]:[INFO]:Dumping to db
+[2023-01-17 14:21:26,727]:[INFO]:Remaining: 107
+[2023-01-17 14:21:30,721]:[INFO]:Dumping to db
+[2023-01-17 14:21:31,034]:[INFO]:Remaining: 106
+[2023-01-17 14:21:35,127]:[INFO]:Dumping to db
+[2023-01-17 14:21:35,258]:[INFO]:Remaining: 105
+[2023-01-17 14:21:40,172]:[INFO]:Dumping to db
+[2023-01-17 14:21:40,301]:[INFO]:Remaining: 104
+[2023-01-17 14:21:43,197]:[INFO]:Dumping to db
+[2023-01-17 14:21:43,322]:[INFO]:Remaining: 103
+[2023-01-17 14:21:47,265]:[INFO]:Dumping to db
+[2023-01-17 14:21:47,386]:[INFO]:Remaining: 102
+[2023-01-17 14:21:50,305]:[INFO]:Dumping to db
+[2023-01-17 14:21:50,430]:[INFO]:Remaining: 101
+[2023-01-17 14:21:54,358]:[INFO]:Dumping to db
+[2023-01-17 14:21:54,488]:[INFO]:Remaining: 100
+[2023-01-17 14:21:59,369]:[INFO]:Dumping to db
+[2023-01-17 14:21:59,489]:[INFO]:Remaining: 99
+[2023-01-17 14:22:02,600]:[INFO]:Dumping to db
+[2023-01-17 14:22:02,725]:[INFO]:Remaining: 98
+[2023-01-17 14:22:06,691]:[INFO]:Dumping to db
+[2023-01-17 14:22:06,812]:[INFO]:Remaining: 97
+[2023-01-17 14:22:09,892]:[INFO]:Dumping to db
+[2023-01-17 14:22:10,011]:[INFO]:Remaining: 96
+[2023-01-17 14:22:16,233]:[INFO]:Dumping to db
+[2023-01-17 14:22:16,360]:[INFO]:Remaining: 95
+[2023-01-17 14:22:20,285]:[INFO]:Dumping to db
+[2023-01-17 14:22:20,401]:[INFO]:Remaining: 94
+[2023-01-17 14:22:24,261]:[INFO]:Dumping to db
+[2023-01-17 14:22:24,381]:[INFO]:Remaining: 93
+[2023-01-17 14:22:29,634]:[INFO]:Dumping to db
+[2023-01-17 14:22:29,770]:[INFO]:Remaining: 92
+[2023-01-17 14:22:34,747]:[INFO]:Dumping to db
+[2023-01-17 14:22:34,874]:[INFO]:Remaining: 91
+[2023-01-17 14:22:39,001]:[INFO]:Dumping to db
+[2023-01-17 14:22:39,301]:[INFO]:Remaining: 90
+[2023-01-17 14:22:44,216]:[INFO]:Dumping to db
+[2023-01-17 14:22:44,354]:[INFO]:Remaining: 89
+[2023-01-17 14:22:49,573]:[INFO]:Dumping to db
+[2023-01-17 14:22:49,701]:[INFO]:Remaining: 88
+[2023-01-17 14:22:52,612]:[INFO]:Dumping to db
+[2023-01-17 14:22:52,741]:[INFO]:Remaining: 87
+[2023-01-17 14:22:56,793]:[INFO]:Dumping to db
+[2023-01-17 14:22:56,935]:[INFO]:Remaining: 86
+[2023-01-17 14:23:00,875]:[INFO]:Dumping to db
+[2023-01-17 14:23:01,005]:[INFO]:Remaining: 85
+[2023-01-17 14:23:03,877]:[INFO]:Dumping to db
+[2023-01-17 14:23:04,000]:[INFO]:Remaining: 84
+[2023-01-17 14:23:07,789]:[INFO]:Dumping to db
+[2023-01-17 14:23:07,910]:[INFO]:Remaining: 83
+[2023-01-17 14:23:10,803]:[INFO]:Dumping to db
+[2023-01-17 14:23:10,930]:[INFO]:Remaining: 82
+[2023-01-17 14:23:14,806]:[INFO]:Dumping to db
+[2023-01-17 14:23:14,930]:[INFO]:Remaining: 81
+[2023-01-17 14:23:19,797]:[INFO]:Dumping to db
+[2023-01-17 14:23:19,921]:[INFO]:Remaining: 80
+[2023-01-17 14:23:22,759]:[INFO]:Dumping to db
+[2023-01-17 14:23:22,890]:[INFO]:Remaining: 79
+[2023-01-17 14:23:27,784]:[INFO]:Dumping to db
+[2023-01-17 14:23:27,901]:[INFO]:Remaining: 78
+[2023-01-17 14:23:32,764]:[INFO]:Dumping to db
+[2023-01-17 14:23:32,893]:[INFO]:Remaining: 77
+[2023-01-17 14:23:35,751]:[INFO]:Dumping to db
+[2023-01-17 14:23:35,870]:[INFO]:Remaining: 76
+[2023-01-17 14:23:39,732]:[INFO]:Dumping to db
+[2023-01-17 14:23:39,846]:[INFO]:Remaining: 75
+[2023-01-17 14:23:43,652]:[INFO]:Dumping to db
+[2023-01-17 14:23:43,870]:[INFO]:Remaining: 74
+[2023-01-17 14:23:49,108]:[INFO]:Dumping to db
+[2023-01-17 14:23:49,229]:[INFO]:Remaining: 73
+[2023-01-17 14:23:52,199]:[INFO]:Dumping to db
+[2023-01-17 14:23:52,317]:[INFO]:Remaining: 72
+[2023-01-17 14:23:56,375]:[INFO]:Dumping to db
+[2023-01-17 14:23:56,510]:[INFO]:Remaining: 71
+[2023-01-17 14:24:01,421]:[INFO]:Dumping to db
+[2023-01-17 14:24:01,538]:[INFO]:Remaining: 70
+[2023-01-17 14:24:05,464]:[INFO]:Dumping to db
+[2023-01-17 14:24:05,593]:[INFO]:Remaining: 69
+[2023-01-17 14:24:12,899]:[INFO]:Dumping to db
+[2023-01-17 14:24:13,014]:[INFO]:Remaining: 68
+[2023-01-17 14:24:17,954]:[INFO]:Dumping to db
+[2023-01-17 14:24:18,079]:[INFO]:Remaining: 67
+[2023-01-17 14:24:25,729]:[INFO]:Dumping to db
+[2023-01-17 14:24:25,855]:[INFO]:Remaining: 66
+[2023-01-17 14:24:29,806]:[INFO]:Dumping to db
+[2023-01-17 14:24:29,930]:[INFO]:Remaining: 65
+[2023-01-17 14:24:34,750]:[INFO]:Dumping to db
+[2023-01-17 14:24:34,879]:[INFO]:Remaining: 64
+[2023-01-17 14:24:38,944]:[INFO]:Dumping to db
+[2023-01-17 14:24:39,068]:[INFO]:Remaining: 63
+[2023-01-17 14:24:44,152]:[INFO]:Dumping to db
+[2023-01-17 14:24:44,273]:[INFO]:Remaining: 62
+[2023-01-17 14:24:47,483]:[INFO]:Dumping to db
+[2023-01-17 14:24:47,931]:[INFO]:Remaining: 61
+[2023-01-17 14:24:52,355]:[INFO]:Dumping to db
+[2023-01-17 14:24:52,542]:[INFO]:Remaining: 60
+[2023-01-17 14:24:56,664]:[INFO]:Dumping to db
+[2023-01-17 14:24:56,786]:[INFO]:Remaining: 59
+[2023-01-17 14:25:00,272]:[INFO]:Dumping to db
+[2023-01-17 14:25:00,394]:[INFO]:Remaining: 58
+[2023-01-17 14:25:03,314]:[INFO]:Dumping to db
+[2023-01-17 14:25:03,455]:[INFO]:Remaining: 57
+[2023-01-17 14:25:07,306]:[INFO]:Dumping to db
+[2023-01-17 14:25:07,433]:[INFO]:Remaining: 56
+[2023-01-17 14:25:10,644]:[INFO]:Dumping to db
+[2023-01-17 14:25:10,771]:[INFO]:Remaining: 55
+[2023-01-17 14:25:15,580]:[INFO]:Dumping to db
+[2023-01-17 14:25:15,712]:[INFO]:Remaining: 54
+[2023-01-17 14:25:20,674]:[INFO]:Dumping to db
+[2023-01-17 14:25:20,791]:[INFO]:Remaining: 53
+[2023-01-17 14:25:25,666]:[INFO]:Dumping to db
+[2023-01-17 14:25:25,787]:[INFO]:Remaining: 52
+[2023-01-17 14:25:29,794]:[INFO]:Dumping to db
+[2023-01-17 14:25:29,919]:[INFO]:Remaining: 51
+[2023-01-17 14:25:32,833]:[INFO]:Dumping to db
+[2023-01-17 14:25:32,956]:[INFO]:Remaining: 50
+[2023-01-17 14:25:37,872]:[INFO]:Dumping to db
+[2023-01-17 14:25:37,993]:[INFO]:Remaining: 49
+[2023-01-17 14:25:41,186]:[INFO]:Dumping to db
+[2023-01-17 14:25:41,317]:[INFO]:Remaining: 48
+[2023-01-17 14:25:45,211]:[INFO]:Dumping to db
+[2023-01-17 14:25:45,340]:[INFO]:Remaining: 47
+[2023-01-17 14:25:48,185]:[INFO]:Dumping to db
+[2023-01-17 14:25:48,303]:[INFO]:Remaining: 46
+[2023-01-17 14:25:51,283]:[INFO]:Dumping to db
+[2023-01-17 14:25:51,408]:[INFO]:Remaining: 45
+[2023-01-17 14:25:54,322]:[INFO]:Dumping to db
+[2023-01-17 14:25:54,442]:[INFO]:Remaining: 44
+[2023-01-17 14:25:58,292]:[INFO]:Dumping to db
+[2023-01-17 14:25:58,422]:[INFO]:Remaining: 43
+[2023-01-17 14:26:01,373]:[INFO]:Dumping to db
+[2023-01-17 14:26:01,500]:[INFO]:Remaining: 42
+[2023-01-17 14:26:05,437]:[INFO]:Dumping to db
+[2023-01-17 14:26:05,740]:[INFO]:Remaining: 41
+[2023-01-17 14:26:08,665]:[INFO]:Dumping to db
+[2023-01-17 14:26:08,807]:[INFO]:Remaining: 40
+[2023-01-17 14:26:13,703]:[INFO]:Dumping to db
+[2023-01-17 14:26:13,834]:[INFO]:Remaining: 39
+[2023-01-17 14:26:19,306]:[INFO]:Dumping to db
+[2023-01-17 14:26:19,424]:[INFO]:Remaining: 38
+[2023-01-17 14:26:22,313]:[INFO]:Dumping to db
+[2023-01-17 14:26:22,431]:[INFO]:Remaining: 37
+[2023-01-17 14:26:26,689]:[INFO]:Dumping to db
+[2023-01-17 14:26:26,824]:[INFO]:Remaining: 36
+[2023-01-17 14:26:30,751]:[INFO]:Dumping to db
+[2023-01-17 14:26:30,876]:[INFO]:Remaining: 35
+[2023-01-17 14:26:34,773]:[INFO]:Dumping to db
+[2023-01-17 14:26:34,899]:[INFO]:Remaining: 34
+[2023-01-17 14:26:39,921]:[INFO]:Dumping to db
+[2023-01-17 14:26:40,049]:[INFO]:Remaining: 33
+[2023-01-17 14:26:42,874]:[INFO]:Dumping to db
+[2023-01-17 14:26:43,010]:[INFO]:Remaining: 32
+[2023-01-17 14:26:47,000]:[INFO]:Dumping to db
+[2023-01-17 14:26:47,127]:[INFO]:Remaining: 31
+[2023-01-17 14:26:51,548]:[INFO]:Dumping to db
+[2023-01-17 14:26:51,668]:[INFO]:Remaining: 30
+[2023-01-17 14:26:55,793]:[INFO]:Dumping to db
+[2023-01-17 14:26:55,916]:[INFO]:Remaining: 29
+[2023-01-17 14:27:00,753]:[INFO]:Dumping to db
+[2023-01-17 14:27:00,876]:[INFO]:Remaining: 28
+[2023-01-17 14:27:03,775]:[INFO]:Dumping to db
+[2023-01-17 14:27:03,897]:[INFO]:Remaining: 27
+[2023-01-17 14:27:06,870]:[INFO]:Dumping to db
+[2023-01-17 14:27:06,988]:[INFO]:Remaining: 26
+[2023-01-17 14:27:09,864]:[INFO]:Dumping to db
+[2023-01-17 14:27:09,992]:[INFO]:Remaining: 25
+[2023-01-17 14:27:12,929]:[INFO]:Dumping to db
+[2023-01-17 14:27:13,182]:[INFO]:Remaining: 24
+[2023-01-17 14:27:17,204]:[INFO]:Dumping to db
+[2023-01-17 14:27:17,324]:[INFO]:Remaining: 23
+[2023-01-17 14:27:17,324]:[INFO]:Enough batch acc. Switch account ...
+[2023-01-17 14:27:17,324]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 14, 19, 24, 787901)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 14, 19, 24, 787901))}
+[2023-01-17 14:27:17,324]:[INFO]:Remain 2 alive acc
+[2023-01-17 14:27:17,324]:[INFO]:Cook_q: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;']
+[2023-01-17 14:27:17,324]:[INFO]:
+=======
+[2023-01-17 14:27:20,530]:[INFO]:Getting chrome driver
+[2023-01-17 14:27:59,902]:[INFO]:Login oke c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;
+[2023-01-17 14:28:11,002]:[INFO]:Queue: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 14, 19, 24, 787901)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 14, 19, 24, 787901))}
+[2023-01-17 14:28:17,017]:[INFO]:Dumping to db
+[2023-01-17 14:28:17,142]:[INFO]:Remaining: 22
+[2023-01-17 14:28:21,815]:[INFO]:Dumping to db
+[2023-01-17 14:28:22,068]:[INFO]:Remaining: 21
+[2023-01-17 14:28:26,434]:[INFO]:Dumping to db
+[2023-01-17 14:28:26,553]:[INFO]:Remaining: 20
+[2023-01-17 14:28:31,161]:[INFO]:Dumping to db
+[2023-01-17 14:28:31,411]:[INFO]:Remaining: 19
+[2023-01-17 14:28:35,317]:[INFO]:Dumping to db
+[2023-01-17 14:28:35,449]:[INFO]:Remaining: 18
+[2023-01-17 14:28:39,942]:[INFO]:Dumping to db
+[2023-01-17 14:28:40,066]:[INFO]:Remaining: 17
+[2023-01-17 14:28:45,500]:[INFO]:Dumping to db
+[2023-01-17 14:28:45,626]:[INFO]:Remaining: 16
+[2023-01-17 14:28:48,949]:[INFO]:Dumping to db
+[2023-01-17 14:28:49,075]:[INFO]:Remaining: 15
+[2023-01-17 14:28:54,360]:[INFO]:Dumping to db
+[2023-01-17 14:28:54,482]:[INFO]:Remaining: 14
+[2023-01-17 14:28:58,209]:[INFO]:Dumping to db
+[2023-01-17 14:28:58,350]:[INFO]:Remaining: 13
+[2023-01-17 14:29:03,986]:[INFO]:Dumping to db
+[2023-01-17 14:29:04,105]:[INFO]:Remaining: 12
+[2023-01-17 14:29:08,544]:[INFO]:Dumping to db
+[2023-01-17 14:29:08,669]:[INFO]:Remaining: 11
+[2023-01-17 14:29:11,859]:[INFO]:Dumping to db
+[2023-01-17 14:29:11,984]:[INFO]:Remaining: 10
+[2023-01-17 14:29:16,232]:[INFO]:Dumping to db
+[2023-01-17 14:29:16,353]:[INFO]:Remaining: 9
+[2023-01-17 14:29:21,630]:[INFO]:Dumping to db
+[2023-01-17 14:29:21,762]:[INFO]:Remaining: 8
+[2023-01-17 14:29:25,260]:[INFO]:Dumping to db
+[2023-01-17 14:29:25,385]:[INFO]:Remaining: 7
+[2023-01-17 14:29:28,785]:[INFO]:Dumping to db
+[2023-01-17 14:29:28,909]:[INFO]:Remaining: 6
+[2023-01-17 14:29:32,367]:[INFO]:Dumping to db
+[2023-01-17 14:29:32,524]:[INFO]:Remaining: 5
+[2023-01-17 14:29:36,757]:[INFO]:Dumping to db
+[2023-01-17 14:29:36,883]:[INFO]:Remaining: 4
+[2023-01-17 14:29:40,186]:[INFO]:Dumping to db
+[2023-01-17 14:29:40,295]:[INFO]:Remaining: 3
+[2023-01-17 14:29:45,683]:[INFO]:Dumping to db
+[2023-01-17 14:29:45,811]:[INFO]:Remaining: 2
+[2023-01-17 14:29:50,035]:[INFO]:Dumping to db
+[2023-01-17 14:29:50,160]:[INFO]:Remaining: 1
+[2023-01-17 14:29:54,386]:[INFO]:Dumping to db
+[2023-01-17 14:29:54,508]:[INFO]:Remaining: 0
+[2023-01-17 14:44:17,583]:[INFO]:
+****************************************************************************************************
+[2023-01-17 14:44:23,295]:[INFO]:Got 0 posts
+[2023-01-17 15:02:53,024]:[INFO]:
+****************************************************************************************************
+[2023-01-17 15:02:58,611]:[INFO]:Got 27 posts
+[2023-01-17 15:02:58,612]:[INFO]:Last time posts_data: 2023-01-16 0
+[2023-01-17 15:02:58,612]:[INFO]:Switch account ...
+[2023-01-17 15:02:58,612]:[INFO]:cook_flag_check: {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 15, 2, 53, 24672)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 15, 2, 53, 24672))}
+[2023-01-17 15:02:58,612]:[INFO]:Remain 2 alive acc
+[2023-01-17 15:02:58,612]:[INFO]:Cook_q: ['c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;', 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;']
+[2023-01-17 15:02:58,613]:[INFO]:
+=======
+[2023-01-17 15:02:59,620]:[INFO]:Getting chrome driver
+[2023-01-17 15:03:37,216]:[INFO]:Login oke c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;
+[2023-01-17 15:03:49,324]:[INFO]:Queue: ['c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;', 'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;'] '
+ cook_flag_check {'c_user=100073030213935; xs=31%3Azbi7-hgZIxbnpg%3A2%3A1673705505%3A-1%3A6290;': ('normal', datetime.datetime(2023, 1, 17, 15, 2, 53, 24672)), 'c_user=100009128593971; xs=5%3AJ0otxQoRgcUPeA%3A2%3A1673583532%3A-1%3A6154;': ('normal', datetime.datetime(2023, 1, 17, 15, 2, 53, 24672))}
+[2023-01-17 15:03:55,451]:[INFO]:Dumping to db
+[2023-01-17 15:03:55,607]:[INFO]:Remaining: 26
+[2023-01-17 15:03:59,753]:[INFO]:Dumping to db
+[2023-01-17 15:03:59,882]:[INFO]:Remaining: 25
+[2023-01-17 15:04:03,700]:[INFO]:Dumping to db
+[2023-01-17 15:04:03,856]:[INFO]:Remaining: 24
+[2023-01-17 15:04:08,807]:[INFO]:Dumping to db
+[2023-01-17 15:04:08,941]:[INFO]:Remaining: 23
+[2023-01-17 15:04:11,866]:[INFO]:Dumping to db
+[2023-01-17 15:04:12,027]:[INFO]:Remaining: 22
+[2023-01-17 15:04:15,947]:[INFO]:Dumping to db
+[2023-01-17 15:04:16,072]:[INFO]:Remaining: 21
+[2023-01-17 15:04:21,015]:[INFO]:Dumping to db
+[2023-01-17 15:04:21,151]:[INFO]:Remaining: 20
+[2023-01-17 15:04:26,119]:[INFO]:Dumping to db
+[2023-01-17 15:04:26,245]:[INFO]:Remaining: 19
+[2023-01-17 15:04:31,216]:[INFO]:Dumping to db
+[2023-01-17 15:04:31,345]:[INFO]:Remaining: 18
+[2023-01-17 15:04:35,307]:[INFO]:Dumping to db
+[2023-01-17 15:04:35,431]:[INFO]:Remaining: 17
+[2023-01-17 15:04:39,531]:[INFO]:Dumping to db
+[2023-01-17 15:04:39,664]:[INFO]:Remaining: 16
+[2023-01-17 15:04:44,483]:[INFO]:Dumping to db
+[2023-01-17 15:04:44,616]:[INFO]:Remaining: 15
+[2023-01-17 15:04:48,497]:[INFO]:Dumping to db
+[2023-01-17 15:04:48,711]:[INFO]:Remaining: 14
+[2023-01-17 15:04:52,672]:[INFO]:Dumping to db
+[2023-01-17 15:04:52,917]:[INFO]:Remaining: 13
+[2023-01-17 15:04:57,979]:[INFO]:Dumping to db
+[2023-01-17 15:04:58,109]:[INFO]:Remaining: 12
+[2023-01-17 15:05:01,987]:[INFO]:Dumping to db
+[2023-01-17 15:05:02,107]:[INFO]:Remaining: 11
+[2023-01-17 15:05:06,041]:[INFO]:Dumping to db
+[2023-01-17 15:05:06,163]:[INFO]:Remaining: 10
+[2023-01-17 15:05:11,006]:[INFO]:Dumping to db
+[2023-01-17 15:05:11,131]:[INFO]:Remaining: 9
+[2023-01-17 15:05:16,284]:[INFO]:Dumping to db
+[2023-01-17 15:05:16,408]:[INFO]:Remaining: 8
+[2023-01-17 15:05:19,405]:[INFO]:Dumping to db
+[2023-01-17 15:05:19,531]:[INFO]:Remaining: 7
+[2023-01-17 15:05:23,621]:[INFO]:Dumping to db
+[2023-01-17 15:05:23,746]:[INFO]:Remaining: 6
+[2023-01-17 15:05:27,627]:[INFO]:Dumping to db
+[2023-01-17 15:05:27,735]:[INFO]:Remaining: 5
+[2023-01-17 15:05:30,589]:[INFO]:Dumping to db
+[2023-01-17 15:05:30,711]:[INFO]:Remaining: 4
+[2023-01-17 15:05:44,062]:[INFO]:Dumping to db
+[2023-01-17 15:05:44,184]:[INFO]:Remaining: 3
+[2023-01-17 15:05:49,606]:[INFO]:Dumping to db
+[2023-01-17 15:05:49,740]:[INFO]:Remaining: 2
+[2023-01-17 15:05:54,641]:[INFO]:Dumping to db
+[2023-01-17 15:05:54,767]:[INFO]:Remaining: 1
+[2023-01-17 15:05:57,623]:[INFO]:Dumping to db
+[2023-01-17 15:05:57,749]:[INFO]:Remaining: 0
