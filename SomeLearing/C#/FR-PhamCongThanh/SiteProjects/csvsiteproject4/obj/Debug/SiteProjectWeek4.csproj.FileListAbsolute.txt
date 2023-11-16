@@ -1,3 +1,0 @@
-D:\WorkSpace\C#\FR-PhamCongThanh\SiteProjects\csvsiteproject4\obj\Debug\SiteProjectWeek4.csproj.AssemblyReference.cache
-D:\WorkSpace\C#\FR-PhamCongThanh\SiteProjects\csvsiteproject4\obj\Debug\SiteProjectWeek4.csproj.SuggestedBindingRedirects.cache
-D:\WorkSpace\C#\FR-PhamCongThanh\SiteProjects\csvsiteproject4\obj\Debug\SiteProjectWeek4.csproj.CoreCompileInputs.cache

@@ -1,8 +1,0 @@
-D:\WorkSpace\C#\LearnASP\LearnASP\obj\Debug\net6.0\LearnASP.csproj.AssemblyReference.cache
-D:\WorkSpace\C#\LearnASP\LearnASP\obj\Debug\net6.0\LearnASP.GeneratedMSBuildEditorConfig.editorconfig
-D:\WorkSpace\C#\LearnASP\LearnASP\obj\Debug\net6.0\LearnASP.AssemblyInfoInputs.cache
-D:\WorkSpace\C#\LearnASP\LearnASP\obj\Debug\net6.0\LearnASP.AssemblyInfo.cs
-D:\WorkSpace\C#\LearnASP\LearnASP\obj\Debug\net6.0\LearnASP.csproj.CoreCompileInputs.cache
-D:\WorkSpace\C#\LearnASP\LearnASP\obj\Debug\net6.0\LearnASP.MvcApplicationPartsAssemblyInfo.cache
-D:\WorkSpace\C#\LearnASP\LearnASP\obj\Debug\net6.0\LearnASP.RazorAssemblyInfo.cache
-D:\WorkSpace\C#\LearnASP\LearnASP\obj\Debug\net6.0\LearnASP.RazorAssemblyInfo.cs

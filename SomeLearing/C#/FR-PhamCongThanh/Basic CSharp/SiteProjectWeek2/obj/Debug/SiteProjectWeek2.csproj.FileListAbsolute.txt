@@ -1,8 +1,0 @@
-D:\Downloads\SiteProjectWeek2-20220801T031521Z-001\SiteProjectWeek2\SiteProjectWeek2\obj\Debug\SiteProjectWeek2.csproj.AssemblyReference.cache
-D:\Downloads\SiteProjectWeek2-20220801T031521Z-001\SiteProjectWeek2\SiteProjectWeek2\obj\Debug\SiteProjectWeek2.csproj.SuggestedBindingRedirects.cache
-D:\Downloads\SiteProjectWeek2-20220801T031521Z-001\SiteProjectWeek2\SiteProjectWeek2\obj\Debug\SiteProjectWeek2.csproj.CoreCompileInputs.cache
-D:\Downloads\SiteProjectWeek2-20220801T031521Z-001\SiteProjectWeek2\SiteProjectWeek2\bin\Debug\SiteProjectWeek2.exe.config
-D:\Downloads\SiteProjectWeek2-20220801T031521Z-001\SiteProjectWeek2\SiteProjectWeek2\bin\Debug\SiteProjectWeek2.exe
-D:\Downloads\SiteProjectWeek2-20220801T031521Z-001\SiteProjectWeek2\SiteProjectWeek2\bin\Debug\SiteProjectWeek2.pdb
-D:\Downloads\SiteProjectWeek2-20220801T031521Z-001\SiteProjectWeek2\SiteProjectWeek2\obj\Debug\SiteProjectWeek2.exe
-D:\Downloads\SiteProjectWeek2-20220801T031521Z-001\SiteProjectWeek2\SiteProjectWeek2\obj\Debug\SiteProjectWeek2.pdb
