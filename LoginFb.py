@@ -9,10 +9,11 @@ browser  = webdriver.Chrome(executable_path="C:\Program Files\Google\Chrome\Appl
 browser.get("https://www.facebook.com/")
 
 txtUser = browser.find_element_by_id("email")
-txtUser.send_keys("thanhclaki@gmail.com")
+# My account:
+txtUser.send_keys("abc@gmail.com")
 
 txtPass = browser.find_element_by_id("pass")
-txtPass.send_keys("thanh123")
+txtPass.send_keys("12233457")
 
 txtPass.send_keys(Keys.ENTER)
 
